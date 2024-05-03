@@ -8,9 +8,9 @@
   <img src="https://komarev.com/ghpvc/?username=DennisJuilland&label=Profile%20views&color=0047AB&style=flat-square" alt="DennisJuilland" /> 
 </p>
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
-
 ## 🌐 About Me
+
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 <img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true" width="250">
 
