@@ -62,6 +62,7 @@
 - **Lead Cybersecurity Professional Certified (LCSPC)**
 - **Cyber Forensics Certified Associate (CFCA)**
 - **Professional Developer Globand & Mercado Libre**
+- **Master Cybersecurity (CISO)**
 
 ### ⚙️ &nbsp;GitHub Analytics
 
