@@ -60,7 +60,7 @@
 - **ISO 27001 Intern Auditor**
 - **Security Operation System - SOC (C3SA)**
 - **Lead Cybersecurity Professional Certified (LCSPC)**
-- **Cyber Forensics Certified Associate(CFCA)**
+- **Cyber Forensics Certified Associate (CFCA)**
 - **Professional Developer Globand & Mercado Libre**
 
 ### ⚙️ &nbsp;GitHub Analytics
