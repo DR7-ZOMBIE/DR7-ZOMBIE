@@ -51,6 +51,18 @@
   <img src="https://img.shields.io/badge/Intrusion_Detection_Systems-00FF00.svg?style=for-the-badge&logoColor=white" alt="IDS" />
 </p>
 
+## 🎓 Cybersecurity Certifications
+
+- **Certified Ethical Hacker (CEH)**
+- **DragonJar Cybersecurity Ofensive (DSIO)**
+- **Ethical Hacking Cetified Associate (EHCA)**
+- **Cybersecurity Certified Expert (CSCE)**
+- **ISO 27001 Intern Auditor**
+- **Security Operation System - SOC (C3SA)**
+- **Lead Cybersecurity Professional Certified (LCSPC)**
+- **Cyber Forensics Certified Associate(CFCA)**
+- **Professional Developer Globand & Mercado Libre**
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
