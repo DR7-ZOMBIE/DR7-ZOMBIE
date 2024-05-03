@@ -61,7 +61,7 @@
 - **Security Operation System - SOC (C3SA)**
 - **Lead Cybersecurity Professional Certified (LCSPC)**
 - **Cyber Forensics Certified Associate (CFCA)**
-- **Professional Developer Globand & Mercado Libre**
+- **Professional Developer Globant & Mercado Libre**
 - **Master Cybersecurity (CISO)**
 
 ### ⚙️ &nbsp;GitHub Analytics
