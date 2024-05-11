@@ -14,7 +14,7 @@
 
 <img align="right" src="https://github.com/DennisJuilland/DennisJuilland/blob/main/Images/Right_Side.gif?raw=true" width="250">
 
-- 🔭 I’m currently working on enhancing network security and intrusion detection systems.
+- 🔭 I’m currently working on cybersecurity engineer and contribute for a team in Forensic, Blue Team and Red Team .
 - 🌱 I’m currently learning advanced cryptographic techniques.
 - 👯 I’m looking to collaborate on open source security projects.
 - 🤔 I’m looking for help with deep learning models for cybersecurity.
