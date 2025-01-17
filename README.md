@@ -54,6 +54,7 @@
 ## 🎓 Cybersecurity Certifications
 
 - **Certified Ethical Hacker (CEH)**
+- **Technical Engineer at Cynet (CCPT)**
 - **DragonJar Cybersecurity Ofensive (DSIO)**
 - **Ethical Hacking Cetified Associate (EHCA)**
 - **Cybersecurity Certified Expert (CSCE)**
